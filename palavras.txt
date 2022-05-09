@@ -1,0 +1,15 @@
+banana
+melancia
+morango
+uva
+caqui
+pessego
+mamao
+laranja
+abacate
+acerola
+maracuja
+melao
+jabuticaba
+figo
+
